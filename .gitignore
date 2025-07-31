@@ -1,0 +1,3 @@
+node_modules
+# É só usar npm install no terminal para baixar de novo. Assim não precisa colocar no git.
+# É preciso ter o node.js instalado.
